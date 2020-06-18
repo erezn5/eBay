@@ -1,0 +1,11 @@
+<suite name="My test suite">
+    <listeners>
+        <listener class-name="com.ebay.automation.tests.components.TestNGListener" />
+    </listeners>
+    <test name="http tester">
+        <classes>
+            <class name="com.ebay.automation.tests.api.HTTPTester" />
+        </classes>
+    </test>
+
+</suite>

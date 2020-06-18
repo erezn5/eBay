@@ -1,0 +1,29 @@
+2020-06-17 17:09:14 [INFO ]HTTPTester_335800 directory created successfully
+2020-06-17 17:09:14 [INFO ]test_output directory already exist
+2020-06-17 17:09:14 [INFO ]getTestRequest test case started
+2020-06-17 17:09:14 [INFO ]getTestRequest test case started
+2020-06-17 17:09:15 [INFO ]Response data is: =[{"Search":[{"Title":"Killer Prom","Year":"2020","imdbID":"tt10814308","Type":"movie","Poster":"N/A"},{"Title":"Prom Knight","Year":"2020–","imdbID":"tt12143924","Type":"series","Poster":"https://m.media-amazon.com/images/M/MV5BMmRmN2QzMzQtYzdiZS00ZTEzLTg4ODgtYmY1MzBmMTM3ZGIzXkEyXkFqcGdeQXVyMTE1Mjg1MjU2._V1_SX300.jpg"},{"Title":"The Prom","Year":"2020","imdbID":"tt10161886","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BZjZlYTFjZGMtMTczZS00YTAwLTg1YzUtY2Y0NWZhMWJkMmJmXkEyXkFqcGdeQXVyNTk5NTQzNDI@._V1_SX300.jpg"},{"Title":"Prom Night","Year":"2020","imdbID":"tt12074564","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BN2JhMzI1NTMtOWQxNC00ODI0LWJiNDYtOGI5YzUxNmRmZDlkXkEyXkFqcGdeQXVyNDk2OTM1Mjk@._V1_SX300.jpg"}],"totalResults":"4","Response":"True"}]
+2020-06-17 17:09:15 [INFO ]onTestSuccess methodThe name of the testcase passed is :getTestRequest
+2020-06-17 17:09:15 [INFO ]onTestSuccess methodThe name of the testcase passed is :getTestRequest
+2020-06-17 17:09:15 [INFO ]getTestRequest1 test case started
+2020-06-17 17:09:15 [INFO ]getTestRequest1 test case started
+2020-06-17 17:09:15 [INFO ]Response data is: =[{"Title":"A Private Affair","Year":"2000","Rated":"N/A","Released":"26 Aug 2000","Runtime":"95 min","Genre":"Drama, Romance","Director":"Michael Toshiyuki Uno","Writer":"Donna Hill (novel), Tony Lee (teleplay)","Actors":"Vanessa Bell Calloway, Clifton Powell, Lou Myers, Merry Clayton","Plot":"N/A","Language":"English","Country":"USA","Awards":"N/A","Poster":"https://m.media-amazon.com/images/M/MV5BMTcxMTY4NzMyNl5BMl5BanBnXkFtZTcwMzQ0MjEzMQ@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.1/10"}],"Metascore":"N/A","imdbRating":"7.1","imdbVotes":"20","imdbID":"tt0264947","Type":"movie","DVD":"09 Sep 2003","BoxOffice":"N/A","Production":"BET Arabesque Films","Website":"N/A","Response":"True"}]
+2020-06-17 17:09:15 [INFO ]onTestFailure methodThe name of the testcase failed is :getTestRequest1
+2020-06-17 17:09:15 [INFO ]onTestFailure methodThe name of the testcase failed is :getTestRequest1
+2020-06-17 17:09:15 [INFO ]getTestRequest
+2020-06-17 17:09:15 [INFO ]getTestRequest
+2020-06-17 20:02:59 [INFO ]HTTPTester_933600 directory created successfully
+2020-06-17 20:02:59 [INFO ]test_output directory already exist
+2020-06-17 20:02:59 [INFO ]getTestRequest test case started
+2020-06-17 20:02:59 [INFO ]Response data is: =[{"Search":[{"Title":"Killer Prom","Year":"2020","imdbID":"tt10814308","Type":"movie","Poster":"N/A"},{"Title":"Prom Knight","Year":"2020–","imdbID":"tt12143924","Type":"series","Poster":"https://m.media-amazon.com/images/M/MV5BMmRmN2QzMzQtYzdiZS00ZTEzLTg4ODgtYmY1MzBmMTM3ZGIzXkEyXkFqcGdeQXVyMTE1Mjg1MjU2._V1_SX300.jpg"},{"Title":"The Prom","Year":"2020","imdbID":"tt10161886","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BZjZlYTFjZGMtMTczZS00YTAwLTg1YzUtY2Y0NWZhMWJkMmJmXkEyXkFqcGdeQXVyNTk5NTQzNDI@._V1_SX300.jpg"},{"Title":"Prom Night","Year":"2020","imdbID":"tt12074564","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BN2JhMzI1NTMtOWQxNC00ODI0LWJiNDYtOGI5YzUxNmRmZDlkXkEyXkFqcGdeQXVyNDk2OTM1Mjk@._V1_SX300.jpg"}],"totalResults":"4","Response":"True"}]
+2020-06-17 20:02:59 [INFO ]onTestSuccess methodThe name of the testcase passed is :getTestRequest
+2020-06-17 20:02:59 [INFO ]getTestRequest1 test case started
+2020-06-17 20:03:00 [INFO ]Response data is: =[{"Title":"A Private Affair","Year":"2000","Rated":"N/A","Released":"26 Aug 2000","Runtime":"95 min","Genre":"Drama, Romance","Director":"Michael Toshiyuki Uno","Writer":"Donna Hill (novel), Tony Lee (teleplay)","Actors":"Vanessa Bell Calloway, Clifton Powell, Lou Myers, Merry Clayton","Plot":"N/A","Language":"English","Country":"USA","Awards":"N/A","Poster":"https://m.media-amazon.com/images/M/MV5BMTcxMTY4NzMyNl5BMl5BanBnXkFtZTcwMzQ0MjEzMQ@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.1/10"}],"Metascore":"N/A","imdbRating":"7.1","imdbVotes":"20","imdbID":"tt0264947","Type":"movie","DVD":"09 Sep 2003","BoxOffice":"N/A","Production":"BET Arabesque Films","Website":"N/A","Response":"True"}]
+2020-06-17 20:03:00 [INFO ]onTestFailure methodThe name of the testcase failed is :getTestRequest1
+2020-06-17 20:03:00 [INFO ]getTestRequest
+2020-06-17 20:38:32 [INFO ]HTTPTester_257500 directory created successfully
+2020-06-17 20:38:32 [INFO ]test_output directory already exist
+2020-06-17 20:38:32 [INFO ]getTestRequest test case started
+2020-06-17 20:38:33 [INFO ]Response data is: =[{"Search":[{"Title":"Killer Prom","Year":"2020","imdbID":"tt10814308","Type":"movie","Poster":"N/A"},{"Title":"Prom Knight","Year":"2020–","imdbID":"tt12143924","Type":"series","Poster":"https://m.media-amazon.com/images/M/MV5BMmRmN2QzMzQtYzdiZS00ZTEzLTg4ODgtYmY1MzBmMTM3ZGIzXkEyXkFqcGdeQXVyMTE1Mjg1MjU2._V1_SX300.jpg"},{"Title":"The Prom","Year":"2020","imdbID":"tt10161886","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BZjZlYTFjZGMtMTczZS00YTAwLTg1YzUtY2Y0NWZhMWJkMmJmXkEyXkFqcGdeQXVyNTk5NTQzNDI@._V1_SX300.jpg"},{"Title":"Prom Night","Year":"2020","imdbID":"tt12074564","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BN2JhMzI1NTMtOWQxNC00ODI0LWJiNDYtOGI5YzUxNmRmZDlkXkEyXkFqcGdeQXVyNDk2OTM1Mjk@._V1_SX300.jpg"}],"totalResults":"4","Response":"True"}]
+2020-06-17 20:38:38 [INFO ]onTestSuccess methodThe name of the testcase passed is :getTestRequest
+2020-06-17 20:38:38 [INFO ]getTestRequest1 test case started
