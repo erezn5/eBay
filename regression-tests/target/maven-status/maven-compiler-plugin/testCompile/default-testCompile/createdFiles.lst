@@ -1,0 +1,5 @@
+com\ebay\automation\tests\components\Rating.class
+com\ebay\automation\tests\BaseTest.class
+com\ebay\automation\tests\components\ImdbClass.class
+com\ebay\automation\tests\api\HTTPTester.class
+com\ebay\automation\tests\components\TestNGListener.class
