@@ -10,6 +10,7 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import org.testng.Assert;
 import org.testng.Reporter;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import java.io.IOException;
@@ -25,14 +26,18 @@ public class HTTPTester extends BaseTest {
     private HashMap<String, String> headersMap = new HashMap<>();
     private static final String BASIC_URL = EnvConf.getProperty("base.url");
     private static List<ImdbClass> lists = new ArrayList<>();
-
+    private SimpleHttpClient simpleHttpClient;
     private List<ImdbClass> getParsedImdbList(String response) {
         JsonArray array = JsonHandler.asList(response, "Search");
         return JsonHandler.getJsonAsClassObjectList(array.toString(), ImdbClass[].class);
     }
 
+    @BeforeMethod
+    private void initSimpleHttpClient(){
+        simpleHttpClient = new SimpleHttpClient();
+    }
+
     private String getResponse(String path) throws IOException {
-        SimpleHttpClient simpleHttpClient = new SimpleHttpClient();
         String uri = BASIC_URL.concat(path);
         return simpleHttpClient.sendGetRequest(uri, headersMap);
     }
