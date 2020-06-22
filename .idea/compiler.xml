@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="regression-tests" />
-        <module name="com.ebay.automation.regression.test" />
         <module name="automation-framework" />
+        <module name="com.ebay.automation.regression.test" />
+        <module name="regression-tests" />
       </profile>
     </annotationProcessing>
   </component>

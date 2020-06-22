@@ -2,13 +2,10 @@ package com.ebay.automation.framework.utils;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.google.gson.stream.JsonReader;
 import com.ebay.automation.framework.logger.LoggerFactory;
-
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.util.Properties;
 
 public class FileUtil {
